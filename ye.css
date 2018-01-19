@@ -149,7 +149,7 @@ div.greeting p.text-big span{
 	white-space: nowrap;
   	overflow: hidden;
 	animation: 
-	type 2s steps(60, end);
+	type 4s steps(60, end);
 }
 
 div.greeting p.text-small{
