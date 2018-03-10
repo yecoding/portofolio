@@ -7,5 +7,4 @@ $(document).ready(function(){
    	$("p.openBtn").toggle();
    	$("p.closeBtn").toggle();
    });
-
 });
